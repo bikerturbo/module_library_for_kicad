@@ -1,4 +1,4 @@
-# module_library_for_kicad
+# module library for kicad
 Easy to use modules from ebay when drawing diagrams.
 
 There is no need to draw a diagram of each module from ebay.
